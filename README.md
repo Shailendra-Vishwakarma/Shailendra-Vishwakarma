@@ -9,7 +9,7 @@
 
 - I am working in Wipro as java developer {Spring Boot + Hibernate + Apache Kafka }.
 
--I am YouTuber + Blogger
+- I am YouTuber + Blogger
 
 - 📝 I regularly write articles on [https://www.cybersploit.in/](https://www.cybersploit.in/)
 
