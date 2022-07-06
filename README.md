@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailendra-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra-vishwakarma" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Microservices**
+✅ I am working in Wipro as java developer {Spring Boot + Hibernate + Apache Kafka }. 
+✅I am YouTuber + Blogger
 
 - 📝 I regularly write articles on [https://www.cybersploit.in/](https://www.cybersploit.in/)
 
