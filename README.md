@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shailendravishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailendravishwakarma" height="30" width="40" /></a>
 <a href="https://fb.com/shailendra.cybersploit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shailendra.cybersploit" height="30" width="40" /></a>
-<a href="https://instagram.com/cybersploit_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cybersploit_official" height="30" width="40" /></a>
+<a href="https://instagram.com/shailendra_root" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailendra_root" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cybersploit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cybersploit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shailendra_vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shailendra_vishwakarma" height="30" width="40" /></a>
 </p>
